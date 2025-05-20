@@ -55,7 +55,7 @@ Library: C:\Archivos\Scripting\Jueguito-Scripting\Temp\BurstOutput\Data\Plugins\
 --assembly-defines=System.Xml;
 --assembly-defines=System;
 --assembly-defines=mscorlib;
---linker-options=PdbAltPath="._Data/Plugins/x86_64/lib_burst_generated.pdb"
+--linker-options=PdbAltPath="Slime Adventure_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=C:\Archivos\Scripting\Jueguito-Scripting\Temp\Burst
 --key-folder=C:/Program Files/Unity/Hub/Editor/2022.3.23f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
@@ -150,7 +150,7 @@ Library: C:\Archivos\Scripting\Jueguito-Scripting\Temp\BurstOutput\Data\Plugins\
 --assembly-defines=System.Xml;
 --assembly-defines=System;
 --assembly-defines=mscorlib;
---linker-options=PdbAltPath="._Data/Plugins/x86_64/lib_burst_generated.pdb"
+--linker-options=PdbAltPath="Slime Adventure_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=C:\Archivos\Scripting\Jueguito-Scripting\Temp\Burst
 --key-folder=C:/Program Files/Unity/Hub/Editor/2022.3.23f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
